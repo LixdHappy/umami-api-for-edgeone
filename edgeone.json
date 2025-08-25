@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api": "./functions/api"
+  },
+  "env": {
+    "API_BASE_URL": "https://umami.gbfun.cc",
+    "TOKEN": "你的_Umami_API_Token",
+    "WEBSITE_ID": "97f90ba2-37f5-4e79-8be0-0bd582f67a4e"
+  }
+}
