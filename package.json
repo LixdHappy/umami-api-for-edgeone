@@ -1,0 +1,10 @@
+{
+  "name": "edgeone-functions-demo",
+  "version": "1.0.0",
+  "description": "A simple EdgeOne Pages Functions demo for API",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Deploy to EdgeOne Pages, no local start'"
+  },
+  "license": "MIT"
+}
