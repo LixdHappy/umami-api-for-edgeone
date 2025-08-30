@@ -11,7 +11,7 @@ const ALLOW_ORIGINS = [
 
 // 必填：你的服务端 Bearer Token（只给 stats 用）。先用 /api/auth 换取
 // 为了快速验证可先硬编码，正式使用请改为平台的环境变量注入。
-const BEARER_TOKEN = 'REPLACE_WITH_YOUR_BEARER_TOKEN';
+const BEARER_TOKEN = 'qN6FaTV/4CSvF9y5eYmsLhSvSC8S8SJ4yarBYfGVkBy+TxWp1VZ3ta6P2wPnVDj+yrcF2M+VQl937sap8xE0X0YVcIs18aDCduO+Xi6xC7B9zTtizDp3qYuNJd50V9KlA3TGd6a+MZAkuOj3Prq1a5Ql/pbAkwDqld0gCHgu+f6UP8TUc5mLwPlK5+nwqSkKPnRtBd3uU3Wy9WR8CU7ZCT5xV+uIlQGzMCZNGQEMPAoj+lUU1aF5XrVvN8o9taZ1QZvWT2/fiFQs2+ih0B5ZwoyGA96rgSuGh2nD8/K8S4n81iBlazZb/NTYVtEtv4R1AcrJRPi6Wj2ZOdeMkrvpXjEtDyblwygDbXkbZI5CjEQFHVqLzV0pBt08/hzM';
 
 // 可选：缓存策略（秒）
 const CACHE_SECONDS_SCRIPT = 86400; // 24h
